@@ -13,3 +13,5 @@ Our aim is to recognize objects from given pictures. The objects are : 'human', 
 3. Plotting the Loss and Accuracy curve.
 4. Evaluating the model and predicting the output class of a test Object.
 5. Plotting the confusion matrix for your result.
+
+**Don't forget to ensure good code quality(comment your code, respect indentation, make your code clear and coherent..)**
