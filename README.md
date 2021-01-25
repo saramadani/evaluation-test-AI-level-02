@@ -4,7 +4,7 @@ We've designed a small remote technical test to evaluate your general theoretica
 
 # Project purpose:
 
-Our aim is to recognize objects from given pictures.
+Our aim is to recognize objects from given pictures. The objects are : 'human', 'dogs', 'bike', 'cars', 'flowers', 'horses', 'cats'
 
 # To Do:
 
